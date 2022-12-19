@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Me-nora_Collection/static/css/main.5eb4e67a.css",
-    "main.js": "/Me-nora_Collection/static/js/main.080e58c5.js",
+    "main.js": "/Me-nora_Collection/static/js/main.0e19f04f.js",
     "static/js/787.76b72599.chunk.js": "/Me-nora_Collection/static/js/787.76b72599.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Me-nora_Collection/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/contact.png": "/Me-nora_Collection/static/media/contact.96c63c3c1d7b93fc0aec.png",
+    "static/media/bg.jpg": "/Me-nora_Collection/static/media/bg.7366819643414d982f3e.jpg",
     "static/media/fontawesome-webfont.eot": "/Me-nora_Collection/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Me-nora_Collection/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Me-nora_Collection/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
@@ -12,11 +13,11 @@
     "static/media/about.jpg": "/Me-nora_Collection/static/media/about.11273a3dc29395c74774.jpg",
     "index.html": "/Me-nora_Collection/index.html",
     "main.5eb4e67a.css.map": "/Me-nora_Collection/static/css/main.5eb4e67a.css.map",
-    "main.080e58c5.js.map": "/Me-nora_Collection/static/js/main.080e58c5.js.map",
+    "main.0e19f04f.js.map": "/Me-nora_Collection/static/js/main.0e19f04f.js.map",
     "787.76b72599.chunk.js.map": "/Me-nora_Collection/static/js/787.76b72599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb4e67a.css",
-    "static/js/main.080e58c5.js"
+    "static/js/main.0e19f04f.js"
   ]
 }
